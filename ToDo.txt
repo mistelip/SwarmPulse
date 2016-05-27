@@ -1,0 +1,11 @@
+add class in ...pulse.model
+copy paste to android client
+
+build runnable jar for server
+send to prasad
+
+
+download sql
+in res/pulse_config.xml
+	set username, password, database name
+	copy-paste <sensor>...</sensor> 

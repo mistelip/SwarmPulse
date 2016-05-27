@@ -8,10 +8,10 @@
         <serverPortClient>8446</serverPortClient>
             <serverThreads>5</serverThreads>
             <sqlHostname>localhost</sqlHostname>
-            <sqlPassword>HV4VmVRnBY92EpDb</sqlPassword>
+            <sqlPassword>**************YOUR PASSWORD COMES HERE**************</sqlPassword>
             <sqlPort>3306</sqlPort>
-            <sqlUsername>prasad</sqlUsername>
-            <sqlDatabase>prasad</sqlDatabase>
+            <sqlUsername>**********YOUR SQL USERNAME COMES HERE**************</sqlUsername>
+            <sqlDatabase>**********YOUR DATABASE NAME COMES HERE*************</sqlDatabase>
             <sqlsensors>
                  <sensor>
                     <sensorName>Light</sensorName>
